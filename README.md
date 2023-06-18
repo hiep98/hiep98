@@ -115,9 +115,9 @@
 
 # Github Stats
 
-![hiep98 GitHub stats](https://github-readme-stats.vercel.app/api?username=hiep98&count_private=true&theme=dracula&show_icons=true)
+![hiep98 GitHub stats](https://github-readme-stats.vercel.app/api?username=hiep98&theme=dracula&show_icons=true)
 
-![0xStarlight github top_languages](https://github-readme-stats.vercel.app/api/top-langs?username=hiep98&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![hipe98 github top_languages](https://github-readme-stats.vercel.app/api/top-langs?username=hiep98&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 
 <!-- # Connect with me:
