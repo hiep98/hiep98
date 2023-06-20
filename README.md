@@ -115,10 +115,9 @@
 
 # Github Stats
 
-![hiep98 GitHub stats](https://github-readme-stats.vercel.app/api?username=hiep98&theme=dracula&show_icons=true)
+![hiep98 GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hiep98&theme=dracula&show_icons=true)
 
-![hipe98 github top_languages](https://github-readme-stats.vercel.app/api/top-langs?username=hiep98&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-
+![hipe98 github top_languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hiep98&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 <!-- # Connect with me:
 
