@@ -73,7 +73,7 @@
 - 🛡️ Defense
 - 🖥️ Offensive
 - 📒 Lifelong learning
-- 📕 Teaching
+- 📕 Sharing
 
 <!-- # Where I've Been
 - ⚔️ USMC (Intel, IT Admin)
