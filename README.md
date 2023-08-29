@@ -9,29 +9,29 @@
 </div>
 
 # Whoami 🥷
- ⚡ I am a security engineer passionate about many areas of cybersecurity such as DevSecOps, Threat Hunting, and Pentesting.
- ⚡ My long-term goal is to become a highly-regarded security expert with in-depth knowledge of devsecops, purple team in the next 7 to 10 years, while continuing to learn and develop new capabilities.
+- ⚡ I am a security engineer passionate about many areas of cybersecurity such as DevSecOps, Threat Hunting, and Pentesting.
+- ⚡ My long-term goal is to become a highly-regarded security expert with in-depth knowledge of devsecops, purple team in the next 7 to 10 years, while continuing to learn and develop new capabilities.
 <!-- - ⚡ I’m currently learning **Offensive Security for OSEP** and preparing for **CRTE**
 - ⚡ I'm currently publishing blogs about Active Directory Attacking and Defending on my blog
 - ⚡ I regularly write articles about Cybersecurity, Red Teaming, and CTF writeup's on [https:/0xStarlight.github.io/](https://0xStarlight.github.io/)
  -->
- ⚡ How to reach me: nthiep1998@gmail.com
+- ⚡ How to reach me: nthiep1998@gmail.com
 
 ---
 
 # Certifications 📜
- ⚡ Certified Ethical Hacker (Practical) in 2022
- ⚡ Advent of Cyber 2022 from TryHackMe
- ⚡ Azure Security Engineer Associate in 2021
- ⚡ Advent of Cyber 2021 from TryHackMe
- ⚡ Advent of Cyber 2020 from TryHackMe
+-⚡ Certified Ethical Hacker (Practical) in 2022
+-⚡ Advent of Cyber 2022 from TryHackMe
+- ⚡ Azure Security Engineer Associate in 2021
+- ⚡ Advent of Cyber 2021 from TryHackMe
+- ⚡ Advent of Cyber 2020 from TryHackMe
 
 
 ---
 
 # Community Activities 🌎
- ⚡ Developed cyber security curriculum for Cyberkid in May 2021.
- ⚡ Technical member of Google Developer Student Club from 2019 to 2021.
+- ⚡ Developed cyber security curriculum for Cyberkid in May 2021.
+- ⚡ Technical member of Google Developer Student Club from 2019 to 2021.
 
 
 ---
@@ -70,11 +70,11 @@
 ---
 
 # Things that I love 💞
- ♾️ Devsecops
- 🛡️ Defense
- 🖥️ Offensive
- 📒 Lifelong learning
- 📕 Sharing
+- ♾️ Devsecops
+- 🛡️ Defense
+- 🖥️ Offensive
+- 📒 Lifelong learning
+- 📕 Sharing
 
 <!-- # Where I've Been
 - ⚔️ USMC (Intel, IT Admin)
