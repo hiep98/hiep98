@@ -20,8 +20,8 @@
 ---
 
 # Certifications 📜
--⚡ Certified Ethical Hacker (Practical) in 2022
--⚡ Advent of Cyber 2022 from TryHackMe
+- ⚡ Certified Ethical Hacker (Practical) in 2022
+- ⚡ Advent of Cyber 2022 from TryHackMe
 - ⚡ Azure Security Engineer Associate in 2021
 - ⚡ Advent of Cyber 2021 from TryHackMe
 - ⚡ Advent of Cyber 2020 from TryHackMe
