@@ -69,7 +69,7 @@
 
 ---
 
-# Things that I love:
+# Things that I love 💞
  ♾️ Devsecops
  🛡️ Defense
  🖥️ Offensive
