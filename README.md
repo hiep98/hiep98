@@ -8,7 +8,7 @@
 <h3 align="center">A passionate cybersecurity enthusiast and a person cursed with knowledge</h3>
 </div>
 
-# Whoami
+# Whoami 🥷
  ⚡ I am a security engineer passionate about many areas of cybersecurity such as DevSecOps, Threat Hunting, and Pentesting.
  ⚡ My long-term goal is to become a highly-regarded security expert with in-depth knowledge of devsecops, purple team in the next 7 to 10 years, while continuing to learn and develop new capabilities.
 <!-- - ⚡ I’m currently learning **Offensive Security for OSEP** and preparing for **CRTE**
@@ -29,7 +29,7 @@
 
 ---
 
-# Community Activities
+# Community Activities 🌎
  ⚡ Developed cyber security curriculum for Cyberkid in May 2021.
  ⚡ Technical member of Google Developer Student Club from 2019 to 2021.
 
@@ -49,7 +49,7 @@
 
 ---
  -->
-# 🚩 TryHackMe Profile 🚩
+# TryHackMe Profile 🚩
 
 <a href="https://tryhackme.com/p/daichizan"><img src="https://tryhackme-badges.s3.amazonaws.com/daichizan.png" alt="TryHackMe"></a>
 
@@ -114,7 +114,7 @@
 - [CVE-2021-38699](https://github.com/HuskyHacks/CVE-2021-38699-Reflected-XSS) -->
 
 
-# Github Stats
+# Github Stats 🚀
 
 ![hiep98 GitHub stats](https://github-readme-stats.vercel.app//api?username=hiep98&theme=dracula&show_icons=true)
 
