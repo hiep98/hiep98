@@ -89,7 +89,7 @@
 # Where I'm Going 🧭
 <!-- - Affordable, accessible cybersecurity training content for everyone. -->
 - Technical mastery of offensive skills for the betterment of the defensive skills.
-- community building, mentorship, mentorship
+- community building, mentorship
 
 
 
